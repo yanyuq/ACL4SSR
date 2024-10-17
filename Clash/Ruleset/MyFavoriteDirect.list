@@ -1,0 +1,9 @@
+# 内容：个人收藏
+# 数量：7条
+DOMAIN-SUFFIX,yadan.fun
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,cpu-monkey.com
+DOMAIN-KEYWORD,leadingtek
+DOMAIN-KEYWORD,citic
+IP-CIDR,127.0.0.0/8
