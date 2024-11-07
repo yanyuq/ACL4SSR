@@ -7,4 +7,6 @@ DOMAIN-SUFFIX,cpu-monkey.com
 DOMAIN-SUFFIX,jetbrains.com.cn
 DOMAIN-KEYWORD,leadingtek
 DOMAIN-KEYWORD,citic
+DOMAIN-KEYWORD,jetbrains
+DOMAIN-KEYWORD,synology
 IP-CIDR,127.0.0.0/8
